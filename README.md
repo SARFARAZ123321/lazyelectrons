@@ -5,7 +5,7 @@ This is a web based application developed for health related telugu based websit
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - http://teluguhealth.southindia.cloudapp.azure.com/
+**Project Link** - https://lazyelactrons.azurewebsites.net/
 
 
 ## Features and Functionalities 😃
@@ -19,23 +19,22 @@ This is a web based application developed for health related telugu based websit
 
 ## Screenshots
 
- 📸![Screenshot 2022-03-07 090754](https://user-images.githubusercontent.com/98517345/156963750-f5d694b6-a371-4b41-817f-22c8291b37da.jpg)
+![Screenshot 2022-09-23 213516](https://user-images.githubusercontent.com/96176669/192004402-3a8da2f0-b29b-4f3a-a32c-575cd8e6761f.png)
 
 
 
    
 
-### About Us -
+### Disclaimer -
 
 
+![Screenshot 2022-09-23 213721](https://user-images.githubusercontent.com/96176669/192004711-ab168c49-a6a7-4059-b736-ee4404e4647c.png)
 
-![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
 
 
 ### Privacy policy -
 
-
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
+![Screenshot 2022-09-23 213617](https://user-images.githubusercontent.com/96176669/192004556-099446f4-7753-4036-ac2c-62f3f2d993cd.png)
 
 
 
