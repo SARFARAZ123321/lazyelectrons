@@ -1,6 +1,6 @@
 # ✨ lazyelectrons  ✨
 
-This is a web based application developed for health related telugu based website in india
+This is a web based application developed for tech related based website in india
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -35,6 +35,17 @@ This is a web based application developed for health related telugu based websit
 ### Privacy policy -
 
 ![Screenshot 2022-09-23 213617](https://user-images.githubusercontent.com/96176669/192004556-099446f4-7753-4036-ac2c-62f3f2d993cd.png)
+
+
+
+### Post1 -
+
+![Screenshot 2022-09-23 213906](https://user-images.githubusercontent.com/96176669/192004977-ac3795ee-f36f-4d66-82e3-6041346284f7.png)
+
+
+### Post2 -
+
+![Screenshot 2022-09-23 213957](https://user-images.githubusercontent.com/96176669/192005103-33d3b61e-cd64-46a9-9e3c-dc5ae9e065ba.png)
 
 
 
